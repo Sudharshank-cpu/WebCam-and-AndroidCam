@@ -47,7 +47,7 @@ WebCam-and-AndroidCam is a Python-based project that enables you to use your And
     ```
 6. Put down that IP address and Port as shown from that script.
 7. If it works, It shows the view of the camera from your Android phone.
-8. Once you done. Press <strong>Escape Key<strong> or <strong>letter "q"</strong> to exit this process.
+8. Once you done. Press <strong>Escape Key</strong> or <strong>letter "q"</strong> to exit this process.
 9. Turn off or Stop the Server from Installed Application of your Android Phone. 
 
 
